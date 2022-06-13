@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KNamuuu" />
 [![KNamuuu's github stats](https://github-readme-stats.vercel.app/api?username=KNamuuu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
