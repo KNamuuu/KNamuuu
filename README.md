@@ -20,7 +20,7 @@
   
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=KNamuuu&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNamuuu&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNamuuu&layout=compact&exclude_repo=awaycamp-admin-page" />
   </div>
 </div>
 
