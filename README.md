@@ -12,6 +12,9 @@
     </div>
     <div>
       <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+      <img alt="Styled-Component" src ="https://img.shields.io/badge/StyledComponent-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/>  
+    </div>
+    <div>
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     </div>
   </div>
