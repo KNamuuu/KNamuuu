@@ -23,11 +23,11 @@
   
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=KNamuuu&count_private=true" />
-    [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KNamuuu)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNamuuu&layout=compact&exclude_repo=awaycamp-admin-page" /> -->
   </div>
 </div>
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KNamuuu)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
 **KNamuuu/KNamuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
